@@ -7,7 +7,7 @@
 <h1 align="center">Hola, soy José Ignacio Silva Diaz 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador%20Full-Stack%3BEspecialista%20en%20PHP%20y%20Moodle%3BAutomatizaci%C3%B3n%20con%20IA%3BEntusiasta%20del%20Open%20Source" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador%20Full-Stack%3BAutomatizaci%C3%B3n%20con%20IA%3BEntusiasta%20del%20Open%20Source" alt="Typing SVG" /></a>
 </p>
 
 ---
